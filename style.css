@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    border-radius: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+p{
+    font: size 100px;
+}
